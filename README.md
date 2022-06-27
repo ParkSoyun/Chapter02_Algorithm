@@ -34,11 +34,11 @@
 |22|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|✅||
 |23|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|✅||
 |24|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|✅||
-|25|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|||
-|26|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|||
-|27|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|||
-|28|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|||
-|29|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|||
+|25|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|✅||
+|26|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|✅||
+|27|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|✅||
+|28|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|✅||
+|29|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|✅||
 |30|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|||
 |31|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|||
 |32|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|||
