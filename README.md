@@ -30,10 +30,10 @@
 |18|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|✅||
 |19|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|||
 |20|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|✅||
-|21|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|||
-|22|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|||
-|23|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|||
-|24|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|||
+|21|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|✅||
+|22|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|✅||
+|23|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|✅||
+|24|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|✅||
 |25|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|||
 |26|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|||
 |27|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|||
