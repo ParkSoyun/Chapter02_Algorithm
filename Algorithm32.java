@@ -30,8 +30,6 @@ public class Algorithm32 {
             stages_list.add(stages[i]);
         }
 
-        Collections.sort(stages_list);
-
         Map<Integer, Double> answer_map = new HashMap<>();
         int count = 0;
         int cumulative_count = 0;
