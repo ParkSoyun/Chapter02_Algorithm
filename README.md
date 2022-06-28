@@ -39,11 +39,11 @@
 |27|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|✅||
 |28|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|✅||
 |29|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|✅||
-|30|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|||
-|31|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|||
-|32|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|||
-|33|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|||
-|34|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|||
+|30|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|✅||
+|31|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|✅||
+|32|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|✅||
+|33|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|✅||
+|34|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|✅||
 |35|[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|||
 |36|[[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|||
 |37|[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|||
